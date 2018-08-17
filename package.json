@@ -21,7 +21,7 @@
     "dispatcher",
     "manager"
   ],
-  "author": "niteru",
+  "author": "keupoz",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.3",
