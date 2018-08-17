@@ -1,5 +1,5 @@
 import json  from 'rollup-plugin-json'
-import babel from 'rollup-plugin-babel'
+import buble from 'rollup-plugin-buble'
 
 export default {
 	input: 'src/index.js',
@@ -14,5 +14,5 @@ export default {
 			file: 'build/EventManager.module.js'
 		}
 	],
-	plugins: [ json(), babel() ]
+	plugins: [ json(), buble() ]
 }

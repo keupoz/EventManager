@@ -6,10 +6,10 @@
   "jsnext:main": "build/EventManager.module.js",
   "module": "build/EventManager.module.js",
   "files": [
-  	"build",
-  	"package.json",
-  	"LICENSE",
-  	"README.md"
+    "build",
+    "package.json",
+    "LICENSE",
+    "README.md"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -24,11 +24,8 @@
   "author": "keupoz",
   "license": "MIT",
   "devDependencies": {
-    "babel-core": "^6.26.3",
-    "babel-plugin-external-helpers": "^6.22.0",
-    "babel-preset-env": "^1.7.0",
     "rollup": "^0.63.4",
-    "rollup-plugin-babel": "^3.0.7",
+    "rollup-plugin-buble": "^0.19.2",
     "rollup-plugin-json": "^3.0.0",
     "uglify-js": "^3.4.5"
   }
