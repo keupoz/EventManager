@@ -28,5 +28,14 @@
     "rollup-plugin-buble": "^0.19.2",
     "rollup-plugin-json": "^3.0.0",
     "uglify-js": "^3.4.5"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keupoz/EventManager.git"
+  },
+  "bugs": {
+    "url": "https://github.com/keupoz/EventManager/issues"
+  },
+  "homepage": "https://github.com/keupoz/EventManager#readme"
 }
