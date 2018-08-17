@@ -1,6 +1,6 @@
 {
   "name": "eventmanager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom event dispatcher for JS objects",
   "main": "build/EventManager.js",
   "jsnext:main": "build/EventManager.module.js",
